@@ -1,8 +1,8 @@
 == Description ==
 
-A starter child theme for PageLines.  Use this as a reference for building your own child themes for PageLines Store.
+Faithful is a Child Theme built for the PageLines Framework.  It requires DMS to work properly and will not work for v2.x
 
 == Changelog ==
 
-= 1.0.2 =
-* Base release.
+= 1.0 =
+* Initial release.
