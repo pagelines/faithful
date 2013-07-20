@@ -48,7 +48,7 @@ class faithfulTheme {
           <li style="margin-bottom:7px;"><strong><?php _e('4.','faithful');?> </strong><?php _e('In the Global Options panel, locate the Import/Export area and click on it.','faithful');?></li>
           <li style="margin-bottom:7px;"><strong><?php _e('5.','faithful');?> </strong><?php _e('To recreate the demo, click the Child Theme Config Import button.','faithful');?></li>
           <li style="margin-bottom:7px;"><strong><?php _e('6.','faithful');?> </strong><?php _e('That\'s it! Templates and look will all be loaded.  If you want to create more pages, in your Templates area you can apply any of the templates from the demo to new pages.','faithful');?></li>
-          <li style="margin-bottom:7px;"><strong><?php _e('6.','faithful');?> </strong><?php _e('To edit the main color of the theme, simply change the Link Color in Global Options and your entire theme will change to match.','faithful');?></li>
+          <li style="margin-bottom:7px;"><strong><?php _e('7.','faithful');?> </strong><?php _e('To edit the main color of the theme, simply change the Link Color in Global Options and your entire theme will change to match.','faithful');?></li>
 				</ul>
 			</div>
 		<?php
@@ -62,7 +62,7 @@ class faithfulTheme {
 		$theme_settings['faithful_theme_config'] = array(
 		   'pos'                  => 50,
 		   'name'                 => __('Faithful Theme','faithful'),
-		   'icon'                 => 'icon-circle',
+		   'icon'                 => 'icon-chevron-sign-up',
 		   'opts'                 => array(
 		   		array(
 		       	    'type'          => 'template',
