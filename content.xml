@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.2" created="2013-07-06 13:29" -->
+<!-- generator="WordPress/3.5.2" created="2013-07-23 20:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Faithful Child Theme</title>
-	<link>http://faithful.usingpagelines.com</link>
-	<description>Just another UsingPageLines.com site</description>
-	<pubDate>Sat, 06 Jul 2013 13:29:28 +0000</pubDate>
+	<title>Testing</title>
+	<link>http://testing.dev</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Tue, 23 Jul 2013 20:51:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://usingpagelines.com/</wp:base_site_url>
-	<wp:base_blog_url>http://faithful.usingpagelines.com</wp:base_blog_url>
+	<wp:base_site_url>http://testing.dev</wp:base_site_url>
+	<wp:base_blog_url>http://testing.dev</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>transforme</wp:author_login><wp:author_email>jgiroux@transforme.ca</wp:author_email><wp:author_display_name><![CDATA[transforme]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -44,7 +44,7 @@
 
 	<item>
 		<title>Home</title>
-		<link>http://faithful.usingpagelines.com/</link>
+		<link>http://testing.dev/</link>
 		<pubDate>Sun, 30 Jun 2013 14:14:11 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://faithful.dev/?page_id=2</guid>
@@ -73,7 +73,23 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:4:"live";a:14:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderj7pzzo";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"j7pzzo";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawd8sl9";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wd8sl9";s:7:"content";a:1:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"8bb1ef";s:3:"sid";s:8:"plcolumn";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"mu9r12";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areauwap8h";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"uwap8h";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"dp3785";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"nquq9b";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}}}i:3;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargeb5ksw1";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"b5ksw1";}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawimw5t";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wimw5t";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesFlipper";s:5:"clone";s:6:"58vcd5";s:3:"sid";s:7:"flipper";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"j7pzzo";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:53:"[pl_child_url]/assets/img/5480589878_dfae8ac851_o.jpg";s:16:"revslider_text_1";s:124:"<h1 class="fthflBig">Faithful Theme</h1>Empowering people and organizations<br />through great design and media development.";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:4:"fade";}s:4:"file";s:0:"";s:6:"mu9r12";a:2:{s:15:"textbox_content";s:50:"<img src="[pl_child_url]/assets/img/faithful.png">";s:13:"textbox_align";s:10:"textcenter";}s:6:"wd8sl9";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";}s:6:"dp3785";a:2:{s:15:"textbox_content";s:113:"<h1 class="fthflSuperSize fthflThin">This theme is designed to help you communicate your mission and vision.</h1>";s:13:"textbox_align";s:10:"textcenter";}s:6:"uwap8h";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:18:"pl_area_pad_bottom";s:4:"50px";}s:6:"nquq9b";a:3:{s:15:"textbox_content";s:183:"Your site is one of the first places people look to discover more about who you are and what you value.  Faithful is all about helping you showcase the most important thing, people.  ";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_font_size";s:2:"16";}s:6:"58vcd5";a:3:{s:17:"flipper_post_type";s:4:"post";s:13:"flipper_shown";s:1:"4";s:13:"flipper_title";s:67:"<h2 class="fthflColor fthflSpacing" align="center">Latest News</h2>";}s:6:"b5ksw1";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"1";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"600";}s:6:"m8xox2";a:4:{s:15:"textbox_content";s:138:"<h4 class="fthflSmallText fthflLineHeight fthflMargin">When We Meet</h4><br /><h3 class="fthflThick fthflColor">Tuesdays At 2pm</h3><br />";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";s:11:"textbox_pad";s:10:"0 0 40px 0";}s:6:"7i8vad";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:6:"k0cxjq";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:13:"page-template";s:4:"home";}s:5:"draft";a:14:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderj7pzzo";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"j7pzzo";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawd8sl9";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wd8sl9";s:7:"content";a:1:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"8bb1ef";s:3:"sid";s:8:"plcolumn";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"mu9r12";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areauwap8h";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"uwap8h";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"dp3785";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"nquq9b";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}}}i:3;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargeb5ksw1";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"b5ksw1";}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawimw5t";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wimw5t";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesFlipper";s:5:"clone";s:6:"58vcd5";s:3:"sid";s:7:"flipper";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"j7pzzo";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:53:"[pl_child_url]/assets/img/5480589878_dfae8ac851_o.jpg";s:16:"revslider_text_1";s:124:"<h1 class="fthflBig">Faithful Theme</h1>Empowering people and organizations<br />through great design and media development.";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:4:"fade";}s:4:"file";s:0:"";s:6:"mu9r12";a:2:{s:15:"textbox_content";s:50:"<img src="[pl_child_url]/assets/img/faithful.png">";s:13:"textbox_align";s:10:"textcenter";}s:6:"wd8sl9";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";}s:6:"dp3785";a:2:{s:15:"textbox_content";s:113:"<h1 class="fthflSuperSize fthflThin">This theme is designed to help you communicate your mission and vision.</h1>";s:13:"textbox_align";s:10:"textcenter";}s:6:"uwap8h";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:18:"pl_area_pad_bottom";s:4:"50px";}s:6:"nquq9b";a:3:{s:15:"textbox_content";s:183:"Your site is one of the first places people look to discover more about who you are and what you value.  Faithful is all about helping you showcase the most important thing, people.  ";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_font_size";s:2:"16";}s:6:"58vcd5";a:3:{s:17:"flipper_post_type";s:4:"post";s:13:"flipper_shown";s:1:"4";s:13:"flipper_title";s:67:"<h2 class="fthflColor fthflSpacing" align="center">Latest News</h2>";}s:6:"b5ksw1";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"1";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"600";}s:6:"m8xox2";a:4:{s:15:"textbox_content";s:138:"<h4 class="fthflSmallText fthflLineHeight fthflMargin">When We Meet</h4><br /><h3 class="fthflThick fthflColor">Tuesdays At 2pm</h3><br />";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";s:11:"textbox_pad";s:10:"0 0 40px 0";}s:6:"7i8vad";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:6:"k0cxjq";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:13:"page-template";s:4:"home";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:14:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderj7pzzo";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"j7pzzo";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawd8sl9";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wd8sl9";s:7:"content";a:1:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"8bb1ef";s:3:"sid";s:8:"plcolumn";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"mu9r12";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areauwap8h";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"uwap8h";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"dp3785";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"nquq9b";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}}}i:3;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawkwj05";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wkwj05";}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawimw5t";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wimw5t";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesFlipper";s:5:"clone";s:6:"58vcd5";s:3:"sid";s:7:"flipper";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"j7pzzo";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:53:"[pl_child_url]/assets/img/5480589878_dfae8ac851_o.jpg";s:16:"revslider_text_1";s:124:"<h1 class="fthflBig">Faithful Theme</h1>Empowering people and organizations<br />through great design and media development.";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:4:"fade";}s:4:"file";s:0:"";s:6:"mu9r12";a:2:{s:15:"textbox_content";s:50:"<img src="[pl_child_url]/assets/img/faithful.png">";s:13:"textbox_align";s:10:"textcenter";}s:6:"wd8sl9";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";}s:6:"dp3785";a:2:{s:15:"textbox_content";s:113:"<h1 class="fthflSuperSize fthflThin">This theme is designed to help you communicate your mission and vision.</h1>";s:13:"textbox_align";s:10:"textcenter";}s:6:"uwap8h";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:18:"pl_area_pad_bottom";s:4:"50px";}s:6:"nquq9b";a:3:{s:15:"textbox_content";s:183:"Your site is one of the first places people look to discover more about who you are and what you value.  Faithful is all about helping you showcase the most important thing, people.  ";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_font_size";s:2:"16";}s:6:"58vcd5";a:3:{s:17:"flipper_post_type";s:4:"post";s:13:"flipper_shown";s:1:"4";s:13:"flipper_title";s:67:"<h2 class="fthflColor fthflSpacing" align="center">Latest News</h2>";}s:6:"m8xox2";a:4:{s:15:"textbox_content";s:138:"<h4 class="fthflSmallText fthflLineHeight fthflMargin">When We Meet</h4><br /><h3 class="fthflThick fthflColor">Tuesdays At 2pm</h3><br />";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";s:11:"textbox_pad";s:10:"0 0 40px 0";}s:6:"7i8vad";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:6:"k0cxjq";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:13:"page-template";s:4:"home";s:6:"wkwj05";a:4:{s:14:"pl_area_height";s:3:"600";s:13:"pl_area_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:16:"pl_area_parallax";s:1:"1";s:21:"pl_area_parallax-flip";s:1:"0";}}s:4:"live";a:2:{s:10:"custom-map";a:1:{s:8:"template";a:1:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area0d4f97";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"0d4f97";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"0d4fc6";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"8";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:17:"PageLinesPostLoop";s:5:"clone";s:6:"0d4fee";s:3:"sid";s:8:"postloop";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:17:"PageLinesComments";s:5:"clone";s:6:"0d5018";s:3:"sid";s:8:"comments";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"0d504b";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:11:"PLRapidTabs";s:5:"clone";s:6:"0d5074";s:3:"sid";s:9:"rapidtabs";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:14:"PrimarySidebar";s:5:"clone";s:6:"0d509e";s:3:"sid";s:10:"sb_primary";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:13:"page-template";s:7:"default";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pl-draft</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pl-settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:14:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderj7pzzo";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"j7pzzo";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawd8sl9";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wd8sl9";s:7:"content";a:1:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"8bb1ef";s:3:"sid";s:8:"plcolumn";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"mu9r12";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areauwap8h";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"uwap8h";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"dp3785";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"nquq9b";s:3:"sid";s:7:"textbox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}}}i:3;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawkwj05";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wkwj05";}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawimw5t";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wimw5t";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesFlipper";s:5:"clone";s:6:"58vcd5";s:3:"sid";s:7:"flipper";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"j7pzzo";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:53:"[pl_child_url]/assets/img/5480589878_dfae8ac851_o.jpg";s:16:"revslider_text_1";s:124:"<h1 class="fthflBig">Faithful Theme</h1>Empowering people and organizations<br />through great design and media development.";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:4:"fade";}s:4:"file";s:0:"";s:6:"mu9r12";a:2:{s:15:"textbox_content";s:50:"<img src="[pl_child_url]/assets/img/faithful.png">";s:13:"textbox_align";s:10:"textcenter";}s:6:"wd8sl9";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";}s:6:"dp3785";a:2:{s:15:"textbox_content";s:113:"<h1 class="fthflSuperSize fthflThin">This theme is designed to help you communicate your mission and vision.</h1>";s:13:"textbox_align";s:10:"textcenter";}s:6:"uwap8h";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:18:"pl_area_pad_bottom";s:4:"50px";}s:6:"nquq9b";a:3:{s:15:"textbox_content";s:183:"Your site is one of the first places people look to discover more about who you are and what you value.  Faithful is all about helping you showcase the most important thing, people.  ";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_font_size";s:2:"16";}s:6:"58vcd5";a:3:{s:17:"flipper_post_type";s:4:"post";s:13:"flipper_shown";s:1:"4";s:13:"flipper_title";s:67:"<h2 class="fthflColor fthflSpacing" align="center">Latest News</h2>";}s:6:"m8xox2";a:4:{s:15:"textbox_content";s:138:"<h4 class="fthflSmallText fthflLineHeight fthflMargin">When We Meet</h4><br /><h3 class="fthflThick fthflColor">Tuesdays At 2pm</h3><br />";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";s:11:"textbox_pad";s:10:"0 0 40px 0";}s:6:"7i8vad";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:6:"k0cxjq";a:2:{s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:13:"page-template";s:4:"home";s:6:"wkwj05";a:4:{s:14:"pl_area_height";s:3:"600";s:13:"pl_area_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:16:"pl_area_parallax";s:1:"1";s:21:"pl_area_parallax-flip";s:1:"0";}}s:4:"live";a:2:{s:10:"custom-map";a:1:{s:8:"template";a:1:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area0d4f97";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"0d4f97";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"0d4fc6";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"8";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:17:"PageLinesPostLoop";s:5:"clone";s:6:"0d4fee";s:3:"sid";s:8:"postloop";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:17:"PageLinesComments";s:5:"clone";s:6:"0d5018";s:3:"sid";s:8:"comments";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"0d504b";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:11:"PLRapidTabs";s:5:"clone";s:6:"0d5074";s:3:"sid";s:9:"rapidtabs";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:14:"PrimarySidebar";s:5:"clone";s:6:"0d509e";s:3:"sid";s:10:"sb_primary";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:13:"page-template";s:7:"default";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>pl-draft</wp:meta_key>
@@ -82,7 +98,7 @@
 	</item>
 	<item>
 		<title>About Us</title>
-		<link>http://faithful.usingpagelines.com/about-us/</link>
+		<link>http://testing.dev/?page_id=16</link>
 		<pubDate>Sun, 30 Jun 2013 16:02:01 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://faithful.dev/?page_id=16</guid>
@@ -121,10 +137,30 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 
 Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"rc8uys";a:3:{s:11:"pl_area_pad";s:4:"40px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:13:"page-template";s:5:"about";}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pl-settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:16:{s:10:"custom-map";a:1:{s:8:"template";a:8:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaa54ab6";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"a54ab6";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"xb00pz";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areal2mcmf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"l2mcmf";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b162a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"5";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"fpjsp2";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b1651";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"7";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"br6awh";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargeu2h2w2";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"u2h2w2";}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areazwyw3w";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"zwyw3w";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"ulrljt";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"3";s:6:"newrow";s:5:"false";}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areadxab2h";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"dxab2h";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"yg869z";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"3";s:6:"newrow";s:5:"false";}}}i:5;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiw2ndd";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iw2ndd";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"zrgh71";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"3";s:6:"newrow";s:5:"false";}}}i:6;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthCharge9zg0ah";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"9zg0ah";}i:7;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_arearc8uys";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"rc8uys";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"c7c07a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"obdjps";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"c7c0a3";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"n1bm3b";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:6:"u2h2w2";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"300";}s:4:"file";s:0:"";s:6:"a54ab6";a:5:{s:14:"pl_area_height";s:3:"400";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:31:"fthflFontLight fthflBlueSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"xb00pz";a:5:{s:13:"textbox_title";s:47:"<h1 class="fthflThick fthflColor">About Us</h1>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";s:15:"textbox_content";s:399:"<div align="left" class="fthflThin">This is a great place to tell your story.  Introduce people to the passion you have for what you do.  Start at the beginning with how you were founded and what problems you wanted to address in the world.  Are there key people who were involved in your story or who played a major role in your development?  What are they doing now?  Be creative.  Have fun.</div>";s:13:"pl_area_class";s:10:"fthflAbout";}s:6:"ulrljt";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:5:"image";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:6:"Stefan";s:11:"ibox_text_1";s:80:"The most important thing I've done in my life is get the Faithful theme for DMS.";s:12:"ibox_image_1";s:38:"[pl_child_url]/assets/img/profile2.jpg";}s:6:"zrgh71";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:5:"image";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:2:"ET";s:11:"ibox_text_1";s:24:"I now believe in aliens.";s:12:"ibox_image_1";s:38:"[pl_child_url]/assets/img/profile1.jpg";}s:6:"yg869z";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:5:"image";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:7:"Lindsey";s:11:"ibox_text_1";s:61:"Creating a site with Faithful has helped me grow as a person.";s:12:"ibox_image_1";s:38:"[pl_child_url]/assets/img/profile0.jpg";}s:6:"zwyw3w";a:3:{s:18:"pl_area_pad_bottom";s:4:"60px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"br6awh";a:4:{s:13:"textbox_title";s:55:"<h2 class="fthflColor">How We're Tackling Problems</h2>";s:15:"textbox_content";s:677:"Every organization has a focus.  Something they are striving for, whether that be market position, sales, influence or social/political change.  Faithful will help you energize your message and present it in a way that speaks to people.  Use Faithful to help people see the people, stories and life change behind what you do.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"fpjsp2";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:14:"mediabox_align";s:6:"center";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"9zg0ah";a:17:{s:10:"fullheight";s:1:"0";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-4.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"600";}s:6:"obdjps";a:3:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/4327438430_ea3840db3e_o.jpg";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"n1bm3b";a:3:{s:15:"textbox_content";s:531:"Every organization has a set of values that lead and direct them.  Sometimes these values are expressed in writing and sometimes these values are just a way of interacting or an undefined culture.  If you've taken the time to figure them out and write them down, this is a good place for them to go.  Let others see what your motivation is and why it is you make the decisions you make.
+
+Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"rc8uys";a:3:{s:11:"pl_area_pad";s:4:"40px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:13:"page-template";s:5:"about";}s:4:"live";a:16:{s:10:"custom-map";a:1:{s:8:"template";a:8:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaa54ab6";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"a54ab6";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"xb00pz";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areal2mcmf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"l2mcmf";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b162a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"5";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"fpjsp2";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b1651";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"7";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"br6awh";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargeu2h2w2";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"u2h2w2";}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areazwyw3w";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"zwyw3w";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"ulrljt";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"3";s:6:"newrow";s:5:"false";}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areadxab2h";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"dxab2h";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"yg869z";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"3";s:6:"newrow";s:5:"false";}}}i:5;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiw2ndd";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iw2ndd";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"zrgh71";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"3";s:6:"newrow";s:5:"false";}}}i:6;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthCharge9zg0ah";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"9zg0ah";}i:7;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_arearc8uys";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"rc8uys";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"c7c07a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"obdjps";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"c7c0a3";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"n1bm3b";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:6:"u2h2w2";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"300";}s:4:"file";s:0:"";s:6:"a54ab6";a:5:{s:14:"pl_area_height";s:3:"400";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:31:"fthflFontLight fthflBlueSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"xb00pz";a:5:{s:13:"textbox_title";s:47:"<h1 class="fthflThick fthflColor">About Us</h1>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";s:15:"textbox_content";s:399:"<div align="left" class="fthflThin">This is a great place to tell your story.  Introduce people to the passion you have for what you do.  Start at the beginning with how you were founded and what problems you wanted to address in the world.  Are there key people who were involved in your story or who played a major role in your development?  What are they doing now?  Be creative.  Have fun.</div>";s:13:"pl_area_class";s:10:"fthflAbout";}s:6:"ulrljt";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:5:"image";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:6:"Stefan";s:11:"ibox_text_1";s:80:"The most important thing I've done in my life is get the Faithful theme for DMS.";s:12:"ibox_image_1";s:38:"[pl_child_url]/assets/img/profile2.jpg";}s:6:"zrgh71";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:5:"image";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:2:"ET";s:11:"ibox_text_1";s:24:"I now believe in aliens.";s:12:"ibox_image_1";s:38:"[pl_child_url]/assets/img/profile1.jpg";}s:6:"yg869z";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:5:"image";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:7:"Lindsey";s:11:"ibox_text_1";s:61:"Creating a site with Faithful has helped me grow as a person.";s:12:"ibox_image_1";s:38:"[pl_child_url]/assets/img/profile0.jpg";}s:6:"zwyw3w";a:3:{s:18:"pl_area_pad_bottom";s:4:"60px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"br6awh";a:4:{s:13:"textbox_title";s:55:"<h2 class="fthflColor">How We're Tackling Problems</h2>";s:15:"textbox_content";s:677:"Every organization has a focus.  Something they are striving for, whether that be market position, sales, influence or social/political change.  Faithful will help you energize your message and present it in a way that speaks to people.  Use Faithful to help people see the people, stories and life change behind what you do.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"fpjsp2";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:14:"mediabox_align";s:6:"center";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"9zg0ah";a:17:{s:10:"fullheight";s:1:"0";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-4.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"600";}s:6:"obdjps";a:3:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/4327438430_ea3840db3e_o.jpg";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"n1bm3b";a:3:{s:15:"textbox_content";s:531:"Every organization has a set of values that lead and direct them.  Sometimes these values are expressed in writing and sometimes these values are just a way of interacting or an undefined culture.  If you've taken the time to figure them out and write them down, this is a good place for them to go.  Let others see what your motivation is and why it is you make the decisions you make.
+
+Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"rc8uys";a:3:{s:11:"pl_area_pad";s:4:"40px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:13:"page-template";s:5:"about";}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Get Connected</title>
-		<link>http://faithful.usingpagelines.com/get-connected/</link>
+		<link>http://testing.dev/?page_id=17</link>
 		<pubDate>Sun, 30 Jun 2013 16:02:12 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://faithful.dev/?page_id=17</guid>
@@ -201,44 +237,68 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 
 <p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"1pmoim";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"kuorhq";a:3:{s:11:"pl_area_pad";s:5:"100px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Upcoming Events</title>
-		<link>http://faithful.usingpagelines.com/upcoming-events/</link>
-		<pubDate>Sun, 30 Jun 2013 16:02:27 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.dev/?page_id=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date>2013-06-30 16:02:27</wp:post_date>
-		<wp:post_date_gmt>2013-06-30 16:02:27</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>upcoming-events</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705249]]></wp:meta_value>
+			<wp:meta_key>pl-settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:21:{s:10:"custom-map";a:1:{s:8:"template";a:8:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaa54ab6";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"a54ab6";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"xb00pz";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areal2mcmf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"l2mcmf";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b162a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"fpjsp2";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b1651";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"br6awh";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargeu2h2w2";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"u2h2w2";}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiw2ndd";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iw2ndd";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"zrgh71";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area9ml1km";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"9ml1km";s:7:"content";a:5:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"a82yig";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"en6tr4";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:2;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"2f8puz";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:3;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"u34ubi";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:4;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"xt38yz";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:5;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthCharge9zg0ah";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"9zg0ah";}i:6;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area1pmoim";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"1pmoim";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"902mzb";s:3:"sid";s:4:"ibox";s:4:"span";s:2:"10";s:6:"offset";s:1:"1";s:6:"newrow";s:5:"false";}}}i:7;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakuorhq";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kuorhq";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"9u3ke9";s:3:"sid";s:4:"ibox";s:4:"span";s:2:"10";s:6:"offset";s:1:"1";s:6:"newrow";s:5:"false";}}}}}s:6:"u2h2w2";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"300";}s:4:"file";s:0:"";s:6:"a54ab6";a:5:{s:14:"pl_area_height";s:3:"400";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:31:"fthflFontLight fthflBlueSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"xb00pz";a:5:{s:13:"textbox_title";s:68:"<h1 class="fthflThick fthflColor">Get Involved In Our Community</h1>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";s:15:"textbox_content";s:319:"<div align="left" class="fthflThin">This is a great place to give an overview of the programs and services your organization delivers.  Take a moment to broadly explain how people can get connected and then go into detail in the following sections.  Faithful makes it easy to keep content separate but consistent.</div>";s:13:"pl_area_class";s:10:"fthflAbout";}s:6:"zrgh71";a:8:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 2</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";s:11:"ibox_icon_1";s:8:"calendar";}s:6:"br6awh";a:4:{s:13:"textbox_title";s:82:"<h2 class="fthflColor">Service Area 1</h2><h4>An area to describe what you do</h4>";s:15:"textbox_content";s:679:"Every organization has a focus.  Something they are striving for, whether that be market position, sales, influence or social/political change.  Faithful will help you energize your message and present it in a way that speaks to people.  Use Faithful to help visitors see the people, stories and life change behind what you do.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"fpjsp2";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:14:"mediabox_align";s:6:"center";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"9zg0ah";a:17:{s:10:"fullheight";s:1:"0";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-5.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"500";}s:13:"page-template";s:9:"connected";s:6:"iw2ndd";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:11:"pl_area_pad";s:5:"150px";s:13:"pl_area_class";s:17:"fthflLightSection";}s:6:"en6tr4";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 3</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"9ml1km";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:11:"pl_area_pad";s:5:"150px";}s:6:"2f8puz";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 4</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"u34ubi";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 5</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"xt38yz";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 6</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"a82yig";a:3:{s:13:"textbox_title";s:148:"<h2 class="fthflColor">Another Header</h2><h4 class="fthflThin">Perhaps there's an area of specialized services your offer. Tell us about them.</h4>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:6:"902mzb";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:46:"<h1 class="fthflColor">Yet Another Header</h1>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"9u3ke9";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:4:"left";s:12:"ibox_title_1";s:46:"<h1 class="fthflColor">Yet Another Header</h1>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"1pmoim";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"kuorhq";a:3:{s:11:"pl_area_pad";s:5:"100px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}}s:4:"live";a:21:{s:10:"custom-map";a:1:{s:8:"template";a:8:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaa54ab6";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"a54ab6";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"xb00pz";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areal2mcmf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"l2mcmf";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b162a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"fpjsp2";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3b1651";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"br6awh";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargeu2h2w2";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"u2h2w2";}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiw2ndd";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iw2ndd";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"zrgh71";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"8";s:6:"offset";s:1:"2";s:6:"newrow";s:5:"false";}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area9ml1km";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"9ml1km";s:7:"content";a:5:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"a82yig";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"en6tr4";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:2;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"2f8puz";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:3;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"u34ubi";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:4;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"xt38yz";s:3:"sid";s:4:"ibox";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:5;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthCharge9zg0ah";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"9zg0ah";}i:6;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area1pmoim";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"1pmoim";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"902mzb";s:3:"sid";s:4:"ibox";s:4:"span";s:2:"10";s:6:"offset";s:1:"1";s:6:"newrow";s:5:"false";}}}i:7;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakuorhq";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kuorhq";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"9u3ke9";s:3:"sid";s:4:"ibox";s:4:"span";s:2:"10";s:6:"offset";s:1:"1";s:6:"newrow";s:5:"false";}}}}}s:6:"u2h2w2";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"300";}s:4:"file";s:0:"";s:6:"a54ab6";a:5:{s:14:"pl_area_height";s:3:"400";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:31:"fthflFontLight fthflBlueSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"xb00pz";a:5:{s:13:"textbox_title";s:68:"<h1 class="fthflThick fthflColor">Get Involved In Our Community</h1>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";s:15:"textbox_content";s:319:"<div align="left" class="fthflThin">This is a great place to give an overview of the programs and services your organization delivers.  Take a moment to broadly explain how people can get connected and then go into detail in the following sections.  Faithful makes it easy to keep content separate but consistent.</div>";s:13:"pl_area_class";s:10:"fthflAbout";}s:6:"zrgh71";a:8:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 2</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";s:11:"ibox_icon_1";s:8:"calendar";}s:6:"br6awh";a:4:{s:13:"textbox_title";s:82:"<h2 class="fthflColor">Service Area 1</h2><h4>An area to describe what you do</h4>";s:15:"textbox_content";s:679:"Every organization has a focus.  Something they are striving for, whether that be market position, sales, influence or social/political change.  Faithful will help you energize your message and present it in a way that speaks to people.  Use Faithful to help visitors see the people, stories and life change behind what you do.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"fpjsp2";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:14:"mediabox_align";s:6:"center";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"9zg0ah";a:17:{s:10:"fullheight";s:1:"0";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-5.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"500";}s:13:"page-template";s:5:"about";s:6:"iw2ndd";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:11:"pl_area_pad";s:5:"150px";s:13:"pl_area_class";s:17:"fthflLightSection";}s:6:"en6tr4";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 3</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"9ml1km";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:11:"pl_area_pad";s:5:"150px";}s:6:"2f8puz";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 4</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"u34ubi";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 5</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"xt38yz";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:42:"<h3 class="fthflColor">Service Area 6</h3>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"a82yig";a:3:{s:13:"textbox_title";s:148:"<h2 class="fthflColor">Another Header</h2><h4 class="fthflThin">Perhaps there's an area of specialized services your offer. Tell us about them.</h4>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";}s:6:"902mzb";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:46:"<h1 class="fthflColor">Yet Another Header</h1>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"9u3ke9";a:7:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:4:"left";s:12:"ibox_title_1";s:46:"<h1 class="fthflColor">Yet Another Header</h1>";s:11:"ibox_text_1";s:472:"<h4>Another area of interest for visitors.</h4>
+<br />This is a great place to tell people more about some of the programs and services you offer.
+
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.";s:12:"ibox_image_1";s:59:"http://faithful.dev/wp-content/uploads/2013/07/profile1.jpg";}s:6:"1pmoim";a:4:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:17:"fthflLightSection";s:11:"pl_area_pad";s:5:"100px";}s:6:"kuorhq";a:3:{s:11:"pl_area_pad";s:5:"100px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://faithful.usingpagelines.com/blog/</link>
+		<link>http://testing.dev/?page_id=20</link>
 		<pubDate>Sun, 30 Jun 2013 16:03:13 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://faithful.dev/?page_id=20</guid>
@@ -261,10 +321,14 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Give</title>
-		<link>http://faithful.usingpagelines.com/give/</link>
+		<link>http://testing.dev/?page_id=21</link>
 		<pubDate>Sun, 30 Jun 2013 16:03:21 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://faithful.dev/?page_id=21</guid>
@@ -295,102 +359,34 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 
 <p>This page is a great place to sum up your story, explain the needs your organization has and appeal to your visitors to help make what you do possible through generous living.  Whether that's donating time, talent or treasure, here you can set it all up.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:4:"give";}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Details</title>
-		<link>http://faithful.usingpagelines.com/sample-page-2-2/</link>
-		<pubDate>Thu, 20 Jun 2013 23:05:20 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://details.dev/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date>2013-06-20 23:05:20</wp:post_date>
-		<wp:post_date_gmt>2013-06-20 23:05:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sample-page-2-2</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:6:{s:10:"custom-map";a:1:{s:8:"template";a:2:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areax1biyf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"x1biyf";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"whilbg";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area2e0dc1";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"2e0dc1";s:7:"content";a:3:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"182f1c";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"ndjecx";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"182f46";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"904ljk";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"182f6e";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"85ptbl";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:6:"ndjecx";a:4:{s:13:"textbox_title";s:69:"<div class="dt-services"><i class="icon-edit" ></i>&nbsp;DESIGN</div>";s:15:"textbox_content";s:171:"<div class="dt-service-list"><ul><li>Branding & Art Direction</li><li>Web Design</li><li>Print Design</li><li>Production Design</li><li>Video & Photography</li></ul></div>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";}s:6:"904ljk";a:4:{s:13:"textbox_title";s:69:"<div class="dt-services"><i class="icon-edit" ></i>&nbsp;DESIGN</div>";s:15:"textbox_content";s:171:"<div class="dt-service-list"><ul><li>Branding & Art Direction</li><li>Web Design</li><li>Print Design</li><li>Production Design</li><li>Video & Photography</li></ul></div>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";}s:6:"85ptbl";a:4:{s:13:"textbox_title";s:69:"<div class="dt-services"><i class="icon-edit" ></i>&nbsp;DESIGN</div>";s:15:"textbox_content";s:171:"<div class="dt-service-list"><ul><li>Branding & Art Direction</li><li>Web Design</li><li>Print Design</li><li>Production Design</li><li>Video & Photography</li></ul></div>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";}s:6:"whilbg";a:5:{s:13:"textbox_title";s:56:"<h1 class="dt-color"><i class="icon-bar-chart"></i></h1>";s:15:"textbox_content";s:412:"<h3 class="dt-serif dt-color">Our services will knock your socks off.</h3><br /><p>Have you ever wondered what exactly it is that designers and developers do?  Have no fear, we're all about providing answers to life's great mysteries.  Below you'll find an array of services we offer to our wonderful clients.  Each of these services has many years of education, training and real life application behind it.</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_animation";s:15:"pla-from-bottom";}s:13:"page-template";s:19:"detailspagetemplate";}s:4:"live";a:6:{s:10:"custom-map";a:1:{s:8:"template";a:2:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areax1biyf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"x1biyf";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"whilbg";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area2e0dc1";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"2e0dc1";s:7:"content";a:3:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"182f1c";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"ndjecx";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"182f46";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"904ljk";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"182f6e";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"85ptbl";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:6:"ndjecx";a:4:{s:13:"textbox_title";s:69:"<div class="dt-services"><i class="icon-edit" ></i>&nbsp;DESIGN</div>";s:15:"textbox_content";s:171:"<div class="dt-service-list"><ul><li>Branding & Art Direction</li><li>Web Design</li><li>Print Design</li><li>Production Design</li><li>Video & Photography</li></ul></div>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";}s:6:"904ljk";a:4:{s:13:"textbox_title";s:69:"<div class="dt-services"><i class="icon-edit" ></i>&nbsp;DESIGN</div>";s:15:"textbox_content";s:171:"<div class="dt-service-list"><ul><li>Branding & Art Direction</li><li>Web Design</li><li>Print Design</li><li>Production Design</li><li>Video & Photography</li></ul></div>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";}s:6:"85ptbl";a:4:{s:13:"textbox_title";s:69:"<div class="dt-services"><i class="icon-edit" ></i>&nbsp;DESIGN</div>";s:15:"textbox_content";s:171:"<div class="dt-service-list"><ul><li>Branding & Art Direction</li><li>Web Design</li><li>Print Design</li><li>Production Design</li><li>Video & Photography</li></ul></div>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";}s:6:"whilbg";a:5:{s:13:"textbox_title";s:56:"<h1 class="dt-color"><i class="icon-bar-chart"></i></h1>";s:15:"textbox_content";s:412:"<h3 class="dt-serif dt-color">Our services will knock your socks off.</h3><br /><p>Have you ever wondered what exactly it is that designers and developers do?  Have no fear, we're all about providing answers to life's great mysteries.  Below you'll find an array of services we offer to our wonderful clients.  Each of these services has many years of education, training and real life application behind it.</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_animation";s:15:"pla-from-bottom";}s:13:"page-template";s:19:"detailspagetemplate";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705249]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact</title>
-		<link>http://faithful.usingpagelines.com/contact/</link>
-		<pubDate>Fri, 21 Jun 2013 03:44:52 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://details.dev/?page_id=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date>2013-06-21 03:44:52</wp:post_date>
-		<wp:post_date_gmt>2013-06-21 03:44:52</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>contact</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:5:{s:10:"custom-map";a:1:{s:8:"template";a:1:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areae497cb";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"e497cb";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"063df4";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"pm5n1p";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"063e1d";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"8";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"kn3ltn";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:17:"PageLinesShareBar";s:5:"clone";s:6:"nd7v2l";s:3:"sid";s:8:"sharebar";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:6:"pm5n1p";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:15:"mediabox_height";s:3:"200";}s:4:"file";s:0:"";s:6:"kn3ltn";a:4:{s:13:"textbox_title";s:47:"<h2 class="dt-serif dt-color">Get In Touch</h2>";s:15:"textbox_content";s:194:"<p>Our office hours are 9am to 5pm CST.  We'd love to hear from you.  Jenny in our office would be happy to help answer your questions and direct your call to anyone on our team.  Yay Jenny!</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:15:"contacttemplate";}s:4:"live";a:5:{s:10:"custom-map";a:1:{s:8:"template";a:1:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areae497cb";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"e497cb";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"063df4";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"4";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"pm5n1p";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"063e1d";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"8";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:2:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"kn3ltn";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}i:1;a:6:{s:6:"object";s:17:"PageLinesShareBar";s:5:"clone";s:6:"nd7v2l";s:3:"sid";s:8:"sharebar";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}}}s:6:"pm5n1p";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:15:"mediabox_height";s:3:"200";}s:4:"file";s:0:"";s:6:"kn3ltn";a:4:{s:13:"textbox_title";s:47:"<h2 class="dt-serif dt-color">Get In Touch</h2>";s:15:"textbox_content";s:194:"<p>Our office hours are 9am to 5pm CST.  We'd love to hear from you.  Jenny in our office would be happy to help answer your questions and direct your call to anyone on our team.  Yay Jenny!</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:15:"contacttemplate";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705249]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:2:{s:4:"live";a:8:{s:10:"custom-map";a:1:{s:8:"template";a:3:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7bf458";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7bf458";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"nurbvh";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areagcz2dv";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"gcz2dv";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"983d47";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"284j14";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"983d8f";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"ok51cf";s:3:"sid";s:4:"ibox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargekpe1ep";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"kpe1ep";}}}s:6:"nurbvh";a:4:{s:13:"mediabox_html";s:213:"<iframe src="http://player.vimeo.com/video/49072781?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933" width="890" height="501" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>";s:14:"mediabox_align";s:6:"center";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:4:"file";s:0:"";s:6:"ok51cf";a:6:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:1:" ";s:11:"ibox_text_1";s:1:" ";}s:6:"gcz2dv";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:32:"fthflFontLight fthflColorSection";}s:6:"kpe1ep";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-6.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"400";}s:6:"284j14";a:4:{s:13:"textbox_title";s:24:"<h2>Generous Living</h2>";s:15:"textbox_content";s:525:"Each organization has their own needs.  With Faithful, you can build your 3rd party donation engine of choice right into the site.  Our suggestion is to use GravityForms and Stripe together but PayPal, Google Wave and many other payment gateways will work as well.  
+
+<p>This page is a great place to sum up your story, explain the needs your organization has and appeal to your visitors to help make what you do possible through generous living.  Whether that's donating time, talent or treasure, here you can set it all up.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:4:"give";}s:5:"draft";a:8:{s:10:"custom-map";a:1:{s:8:"template";a:3:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7bf458";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7bf458";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"nurbvh";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areagcz2dv";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"gcz2dv";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"983d47";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"284j14";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"983d8f";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:6:"pliBox";s:5:"clone";s:6:"ok51cf";s:3:"sid";s:4:"ibox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:17:"DepthChargekpe1ep";s:6:"object";s:14:"etcDepthCharge";s:3:"sid";s:11:"DepthCharge";s:5:"clone";s:6:"kpe1ep";}}}s:6:"nurbvh";a:4:{s:13:"mediabox_html";s:213:"<iframe src="http://player.vimeo.com/video/49072781?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933" width="890" height="501" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>";s:14:"mediabox_align";s:6:"center";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:4:"file";s:0:"";s:6:"ok51cf";a:6:{s:10:"ibox_count";s:1:"1";s:9:"ibox_cols";s:2:"12";s:10:"ibox_media";s:4:"icon";s:11:"ibox_format";s:3:"top";s:12:"ibox_title_1";s:1:" ";s:11:"ibox_text_1";s:1:" ";}s:6:"gcz2dv";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:32:"fthflFontLight fthflColorSection";}s:6:"kpe1ep";a:17:{s:10:"fullheight";s:1:"1";s:15:"fullheight-flip";s:1:"0";s:18:"background1_vspeed";s:2:".9";s:17:"background1_image";s:35:"[pl_child_url]/assets/img/tci-6.jpg";s:21:"background1_smartsize";s:1:"1";s:26:"background1_smartsize-flip";s:1:"0";s:18:"background1_center";s:1:"0";s:23:"background1_center-flip";s:1:"0";s:21:"background2_smartsize";s:1:"0";s:26:"background2_smartsize-flip";s:1:"0";s:18:"background2_center";s:1:"0";s:23:"background2_center-flip";s:1:"0";s:21:"background3_smartsize";s:1:"0";s:26:"background3_smartsize-flip";s:1:"0";s:18:"background3_center";s:1:"0";s:23:"background3_center-flip";s:1:"0";s:6:"height";s:3:"400";}s:6:"284j14";a:4:{s:13:"textbox_title";s:24:"<h2>Generous Living</h2>";s:15:"textbox_content";s:525:"Each organization has their own needs.  With Faithful, you can build your 3rd party donation engine of choice right into the site.  Our suggestion is to use GravityForms and Stripe together but PayPal, Google Wave and many other payment gateways will work as well.  
+
+<p>This page is a great place to sum up your story, explain the needs your organization has and appeal to your visitors to help make what you do possible through generous living.  Whether that's donating time, talent or treasure, here you can set it all up.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:4:"give";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
-		<link>http://faithful.usingpagelines.com/2013/07/01/29/</link>
-		<pubDate>Mon, 01 Jul 2013 20:54:18 +0000</pubDate>
+		<link>http://testing.dev/?p=105</link>
+		<pubDate>Tue, 23 Jul 2013 20:02:08 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/2013/07/01/29/</guid>
+		<guid isPermaLink="false">http://testing.dev/?p=105</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date>2013-07-01 20:54:18</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:54:18</wp:post_date_gmt>
+		<wp:post_id>105</wp:post_id>
+		<wp:post_date>2013-07-23 20:02:08</wp:post_date>
+		<wp:post_date_gmt>2013-07-23 20:02:08</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>29</wp:post_name>
+		<wp:post_name>105</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
@@ -433,19 +429,74 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 	</item>
 	<item>
 		<title></title>
-		<link>http://faithful.usingpagelines.com/2013/07/01/30/</link>
-		<pubDate>Mon, 01 Jul 2013 20:54:18 +0000</pubDate>
+		<link>http://testing.dev/?p=108</link>
+		<pubDate>Tue, 23 Jul 2013 20:02:09 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/2013/07/01/30/</guid>
+		<guid isPermaLink="false">http://testing.dev/?p=108</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2013-07-01 20:54:18</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:54:18</wp:post_date_gmt>
+		<wp:post_id>108</wp:post_id>
+		<wp:post_date>2013-07-23 20:02:09</wp:post_date>
+		<wp:post_date_gmt>2013-07-23 20:02:09</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>30</wp:post_name>
+		<wp:post_name>108</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="navbar"><![CDATA[NavBar]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://testing.dev/?p=111</link>
+		<pubDate>Tue, 23 Jul 2013 20:02:09 +0000</pubDate>
+		<dc:creator>transforme</dc:creator>
+		<guid isPermaLink="false">http://testing.dev/?p=111</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>111</wp:post_id>
+		<wp:post_date>2013-07-23 20:02:09</wp:post_date>
+		<wp:post_date_gmt>2013-07-23 20:02:09</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>111</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -487,142 +538,20 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Home</title>
-		<link>http://faithful.usingpagelines.com/home/</link>
-		<pubDate>Thu, 20 Jun 2013 23:21:58 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://details.dev/?page_id=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2013-06-20 23:21:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-20 23:21:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>home</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:12:{s:10:"custom-map";a:1:{s:8:"template";a:4:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakpj5rn";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kpj5rn";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"adbxqv";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areak5m1b1";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"k5m1b1";}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area2i74cs";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"2i74cs";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"oxkfug";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area5mtkf7";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"5mtkf7";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesFlipper";s:5:"clone";s:6:"8ewta0";s:3:"sid";s:7:"flipper";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:13:"page-template";s:12:"hometemplate";s:6:"kpj5rn";a:3:{s:11:"pl_area_pad";s:4:"50px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:4:"file";s:0:"";s:6:"78f880";a:6:{s:11:"pl_area_pad";s:4:"20px";s:18:"pl_area_pad_bottom";s:4:"20px";s:13:"pl_area_class";s:9:"dt-footer";s:14:"pl_area_height";s:3:"200";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"8ewta0";a:4:{s:17:"flipper_post_type";s:4:"post";s:13:"flipper_shown";s:1:"4";s:13:"flipper_title";s:54:"<h2 class="dt-color" align="center">From The Blog</h2>";s:13:"flipper_total";s:1:"8";}s:6:"5mtkf7";a:4:{s:11:"pl_area_pad";s:4:"50px";s:18:"pl_area_pad_bottom";s:4:"50px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"2i74cs";a:5:{s:13:"pl_area_class";s:15:"dt-colorsection";s:14:"pl_area_height";s:3:"100";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:11:"pl_area_pad";s:4:"40px";}s:6:"oxkfug";a:5:{s:15:"icallout_format";s:6:"inline";s:13:"icallout_text";s:29:"We're Available For Projects.";s:13:"icallout_link";s:15:"..//?page_id=28";s:18:"icallout_link_text";s:11:"Get Started";s:18:"icallout_btn_theme";s:11:"btn-inverse";}s:6:"2kwvme";a:3:{s:15:"textbox_content";s:386:"<a href="http://twitter.com/transformemedia"><i class="icon-twitter social-buffer"></i></a><a href="http://facebook.com/TransformeCommunications"><i class="icon-facebook social-buffer"></i></a><a href="http://www.linkedin.com/company/2607692"><i class="icon-linkedin social-buffer"></i></a><a href="http://pinterest.com/transformemedia/"><i class="icon-pinterest social-buffer"></i></a>";s:17:"textbox_font_size";s:2:"18";s:13:"textbox_align";s:10:"textcenter";}s:6:"adbxqv";a:5:{s:13:"textbox_title";s:56:"<h1 class="dt-color"><i class="icon-bar-chart"></i></h1>";s:15:"textbox_content";s:284:"<h3 class="dt-sans dt-color">Details for PageLines</h3><p><p>The Details theme is built to run on DMS using only core sections. Details takes full advantage of the new child theme system and provides you with a great out-of-the-box website that you can implement exactly as shown.</p>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_animation";s:7:"no-anim";}s:6:"k5m1b1";a:4:{s:14:"pl_area_height";s:3:"768";s:13:"pl_area_image";s:47:"[pl_child_url]/assets/img/responsive_layout.jpg";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}}s:4:"live";a:12:{s:10:"custom-map";a:1:{s:8:"template";a:4:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakpj5rn";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kpj5rn";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"adbxqv";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areak5m1b1";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"k5m1b1";}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area2i74cs";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"2i74cs";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"oxkfug";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area5mtkf7";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"5mtkf7";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesFlipper";s:5:"clone";s:6:"8ewta0";s:3:"sid";s:7:"flipper";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:13:"page-template";s:12:"hometemplate";s:6:"kpj5rn";a:3:{s:11:"pl_area_pad";s:4:"50px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:4:"file";s:0:"";s:6:"78f880";a:6:{s:11:"pl_area_pad";s:4:"20px";s:18:"pl_area_pad_bottom";s:4:"20px";s:13:"pl_area_class";s:9:"dt-footer";s:14:"pl_area_height";s:3:"200";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"8ewta0";a:4:{s:17:"flipper_post_type";s:4:"post";s:13:"flipper_shown";s:1:"4";s:13:"flipper_title";s:54:"<h2 class="dt-color" align="center">From The Blog</h2>";s:13:"flipper_total";s:1:"8";}s:6:"5mtkf7";a:4:{s:11:"pl_area_pad";s:4:"50px";s:18:"pl_area_pad_bottom";s:4:"50px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"2i74cs";a:5:{s:13:"pl_area_class";s:15:"dt-colorsection";s:14:"pl_area_height";s:3:"100";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:11:"pl_area_pad";s:4:"40px";}s:6:"oxkfug";a:5:{s:15:"icallout_format";s:6:"inline";s:13:"icallout_text";s:29:"We're Available For Projects.";s:13:"icallout_link";s:15:"..//?page_id=28";s:18:"icallout_link_text";s:11:"Get Started";s:18:"icallout_btn_theme";s:11:"btn-inverse";}s:6:"2kwvme";a:3:{s:15:"textbox_content";s:386:"<a href="http://twitter.com/transformemedia"><i class="icon-twitter social-buffer"></i></a><a href="http://facebook.com/TransformeCommunications"><i class="icon-facebook social-buffer"></i></a><a href="http://www.linkedin.com/company/2607692"><i class="icon-linkedin social-buffer"></i></a><a href="http://pinterest.com/transformemedia/"><i class="icon-pinterest social-buffer"></i></a>";s:17:"textbox_font_size";s:2:"18";s:13:"textbox_align";s:10:"textcenter";}s:6:"adbxqv";a:5:{s:13:"textbox_title";s:56:"<h1 class="dt-color"><i class="icon-bar-chart"></i></h1>";s:15:"textbox_content";s:284:"<h3 class="dt-sans dt-color">Details for PageLines</h3><p><p>The Details theme is built to run on DMS using only core sections. Details takes full advantage of the new child theme system and provides you with a great out-of-the-box website that you can implement exactly as shown.</p>";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:10:"textcenter";s:17:"textbox_animation";s:7:"no-anim";}s:6:"k5m1b1";a:4:{s:14:"pl_area_height";s:3:"768";s:13:"pl_area_image";s:47:"[pl_child_url]/assets/img/responsive_layout.jpg";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705224]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Services</title>
-		<link>http://faithful.usingpagelines.com/services/</link>
-		<pubDate>Fri, 21 Jun 2013 03:43:10 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://details.dev/?page_id=26</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date>2013-06-21 03:43:10</wp:post_date>
-		<wp:post_date_gmt>2013-06-21 03:43:10</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>services</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:7:{s:10:"custom-map";a:1:{s:8:"template";a:3:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area5f026e";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"5f026e";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesStarBars";s:5:"clone";s:6:"i6peiz";s:3:"sid";s:8:"starbars";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area9kmg56";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"9kmg56";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"13e6ce";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"kqmgsz";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"13e6f9";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"2r8ezn";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7xs11f";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7xs11f";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLheroUnit";s:5:"clone";s:6:"x5twgy";s:3:"sid";s:4:"hero";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"x5twgy";a:10:{s:24:"pagelines_herounit_image";s:55:"http://details.dev/wp-content/uploads/2013/06/imac1.jpg";s:19:"herounit_left_width";s:5:"span9";s:20:"herounit_right_width";s:5:"span3";s:20:"herounit_button_link";s:1:"#";s:20:"herounit_button_text";s:17:"Click here to buy";s:22:"herounit_button_target";s:1:"0";s:27:"herounit_button_target-flip";s:1:"0";s:21:"herounit_button_theme";s:7:"success";s:24:"pagelines_herounit_title";s:11:"Get Details";s:26:"pagelines_herounit_tagline";s:22:"Build your site today!";}s:4:"file";s:0:"";s:6:"kqmgsz";a:4:{s:13:"textbox_title";s:32:"<h2 class="dt-color">Design</h2>";s:15:"textbox_content";s:259:"<p>Design is the method of putting form and content together. Design, just as art, has multiple definitions; there is no single definition. Design can be art. Design can be aesthetics. Design is so simple, that’s why it is so complicated.
-
-— PAUL RAND</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"2r8ezn";a:4:{s:13:"textbox_title";s:37:"<h2 class="dt-color">Development</h2>";s:15:"textbox_content";s:162:"<p>It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free.
-
-- STEVE MCCONNELL</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:16:"servicestemplate";s:6:"i6peiz";a:10:{s:23:"starbar_container_title";s:46:"<div class="dt-color">Skills & Expertise</div>";s:13:"starbar_count";s:1:"3";s:13:"starbar_total";s:3:"100";s:14:"starbar_format";s:6:"append";s:20:"starbar_descriptor_1";s:13:"Ninja Ability";s:15:"starbar_value_1";s:2:"70";s:20:"starbar_descriptor_2";s:20:"Tree Climbing Skills";s:15:"starbar_value_2";s:2:"90";s:20:"starbar_descriptor_3";s:20:"Design & Development";s:15:"starbar_value_3";s:3:"100";}}s:4:"live";a:7:{s:10:"custom-map";a:1:{s:8:"template";a:3:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area5f026e";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"5f026e";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesStarBars";s:5:"clone";s:6:"i6peiz";s:3:"sid";s:8:"starbars";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area9kmg56";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"9kmg56";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"13e6ce";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"kqmgsz";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"13e6f9";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"6";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"2r8ezn";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7xs11f";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7xs11f";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLheroUnit";s:5:"clone";s:6:"x5twgy";s:3:"sid";s:4:"hero";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"x5twgy";a:10:{s:24:"pagelines_herounit_image";s:55:"http://details.dev/wp-content/uploads/2013/06/imac1.jpg";s:19:"herounit_left_width";s:5:"span9";s:20:"herounit_right_width";s:5:"span3";s:20:"herounit_button_link";s:1:"#";s:20:"herounit_button_text";s:17:"Click here to buy";s:22:"herounit_button_target";s:1:"0";s:27:"herounit_button_target-flip";s:1:"0";s:21:"herounit_button_theme";s:7:"success";s:24:"pagelines_herounit_title";s:11:"Get Details";s:26:"pagelines_herounit_tagline";s:22:"Build your site today!";}s:4:"file";s:0:"";s:6:"kqmgsz";a:4:{s:13:"textbox_title";s:32:"<h2 class="dt-color">Design</h2>";s:15:"textbox_content";s:259:"<p>Design is the method of putting form and content together. Design, just as art, has multiple definitions; there is no single definition. Design can be art. Design can be aesthetics. Design is so simple, that’s why it is so complicated.
-
-— PAUL RAND</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:6:"2r8ezn";a:4:{s:13:"textbox_title";s:37:"<h2 class="dt-color">Development</h2>";s:15:"textbox_content";s:162:"<p>It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free.
-
-- STEVE MCCONNELL</p>";s:17:"textbox_font_size";s:2:"16";s:13:"textbox_align";s:8:"textleft";}s:13:"page-template";s:16:"servicestemplate";s:6:"i6peiz";a:10:{s:23:"starbar_container_title";s:46:"<div class="dt-color">Skills & Expertise</div>";s:13:"starbar_count";s:1:"3";s:13:"starbar_total";s:3:"100";s:14:"starbar_format";s:6:"append";s:20:"starbar_descriptor_1";s:13:"Ninja Ability";s:15:"starbar_value_1";s:2:"70";s:20:"starbar_descriptor_2";s:20:"Tree Climbing Skills";s:15:"starbar_value_2";s:2:"90";s:20:"starbar_descriptor_3";s:20:"Design & Development";s:15:"starbar_value_3";s:3:"100";}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705249]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Company Info</title>
-		<link>http://faithful.usingpagelines.com/company-info/</link>
-		<pubDate>Fri, 21 Jun 2013 20:13:02 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://details.dev/?page_id=35</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date>2013-06-21 20:13:02</wp:post_date>
-		<wp:post_date_gmt>2013-06-21 20:13:02</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>company-info</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:8:{s:10:"custom-map";a:1:{s:8:"template";a:3:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areask4rge";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"sk4rge";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"rk8gy9";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaad66bf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ad66bf";s:7:"content";a:4:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"996092";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"qpj1ie";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"9960be";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"k2tuoj";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"9960ef";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"8b14l4";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"7n8au0";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"6izdw1";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areati8f73";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ti8f73";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"ensu6j";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"rk8gy9";a:2:{s:15:"textbox_content";s:164:"<h3 class="dt-color dt-serif">We are all about empowering people and organizations</h3><h3 class="dt-color dt-sans">through great design and media development.</h3>";s:13:"textbox_align";s:10:"textcenter";}s:6:"qpj1ie";a:5:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"k2tuoj";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5480589878_dfae8ac851_o.jpg";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"8b14l4";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5176263173_828acf94c8_o.jpg";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"6izdw1";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5361091585_41329fb6b4_o.jpg";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:4:"file";s:0:"";s:13:"page-template";s:11:"companyinfo";}s:4:"live";a:8:{s:10:"custom-map";a:1:{s:8:"template";a:3:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areask4rge";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"sk4rge";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"rk8gy9";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaad66bf";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ad66bf";s:7:"content";a:4:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"996092";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"qpj1ie";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"9960be";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"k2tuoj";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"9960ef";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"8b14l4";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"7n8au0";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"6izdw1";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areati8f73";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ti8f73";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"ensu6j";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"rk8gy9";a:2:{s:15:"textbox_content";s:164:"<h3 class="dt-color dt-serif">We are all about empowering people and organizations</h3><h3 class="dt-color dt-sans">through great design and media development.</h3>";s:13:"textbox_align";s:10:"textcenter";}s:6:"qpj1ie";a:5:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"k2tuoj";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5480589878_dfae8ac851_o.jpg";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"8b14l4";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5176263173_828acf94c8_o.jpg";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:6:"6izdw1";a:4:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5361091585_41329fb6b4_o.jpg";s:15:"mediabox_height";s:3:"100";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";}s:4:"file";s:0:"";s:13:"page-template";s:11:"companyinfo";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705249]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
-		<link>http://faithful.usingpagelines.com/2013/07/01/36/</link>
-		<pubDate>Mon, 01 Jul 2013 20:54:18 +0000</pubDate>
+		<link>http://testing.dev/?p=112</link>
+		<pubDate>Tue, 23 Jul 2013 20:02:09 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/2013/07/01/36/</guid>
+		<guid isPermaLink="false">http://testing.dev/?p=112</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date>2013-07-01 20:54:18</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:54:18</wp:post_date_gmt>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date>2013-07-23 20:02:09</wp:post_date>
+		<wp:post_date_gmt>2013-07-23 20:02:09</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>36</wp:post_name>
+		<wp:post_name>112</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -665,74 +594,19 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 	</item>
 	<item>
 		<title></title>
-		<link>http://faithful.usingpagelines.com/2013/07/01/37/</link>
-		<pubDate>Mon, 01 Jul 2013 20:54:18 +0000</pubDate>
+		<link>http://testing.dev/?p=114</link>
+		<pubDate>Tue, 23 Jul 2013 20:02:09 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/2013/07/01/37/</guid>
+		<guid isPermaLink="false">http://testing.dev/?p=114</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date>2013-07-01 20:54:18</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:54:18</wp:post_date_gmt>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date>2013-07-23 20:02:09</wp:post_date>
+		<wp:post_date_gmt>2013-07-23 20:02:09</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>37</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="navbar"><![CDATA[NavBar]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://faithful.usingpagelines.com/2013/07/01/38/</link>
-		<pubDate>Mon, 01 Jul 2013 20:54:18 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/2013/07/01/38/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2013-07-01 20:54:18</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:54:18</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>38</wp:post_name>
+		<wp:post_name>114</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>5</wp:menu_order>
@@ -774,258 +648,8 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. C
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>5557495095_52b329df71_o</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/sed-auctor/5557495095_52b329df71_o/</link>
-		<pubDate>Mon, 01 Jul 2013 20:55:41 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">[pl_child_url]/assets/img/5557495095_52b329df71_o.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date>2013-07-01 20:55:41</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:55:41</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>5557495095_52b329df71_o</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>42</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>[pl_child_url]/assets/img/5557495095_52b329df71_o.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/5557495095_52b329df71_o.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:35:"2013/06/5557495095_52b329df71_o.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"5557495095_52b329df71_o-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-624x415.jpg";s:5:"width";i:624;s:6:"height";i:415;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:8:"Chris JL";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>3244495200_2f54937efd_o</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/nullam-in-dui-mauris/3244495200_2f54937efd_o/</link>
-		<pubDate>Mon, 01 Jul 2013 20:56:29 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">[pl_child_url]/assets/img/3244495200_2f54937efd_o.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date>2013-07-01 20:56:29</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:56:29</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>3244495200_2f54937efd_o</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>41</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>[pl_child_url]/assets/img/3244495200_2f54937efd_o.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/3244495200_2f54937efd_o.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1130;s:4:"file";s:35:"2013/06/3244495200_2f54937efd_o.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-300x211.jpg";s:5:"width";i:300;s:6:"height";i:211;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"3244495200_2f54937efd_o-1024x723.jpg";s:5:"width";i:1024;s:6:"height";i:723;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-624x440.jpg";s:5:"width";i:624;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>4327438430_ea3840db3e_o</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/dolor-sit/4327438430_ea3840db3e_o/</link>
-		<pubDate>Mon, 01 Jul 2013 20:57:23 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">[pl_child_url]/assets/img/4327438430_ea3840db3e_o.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date>2013-07-01 20:57:23</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:57:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>4327438430_ea3840db3e_o</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>33</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>[pl_child_url]/assets/img/4327438430_ea3840db3e_o.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/4327438430_ea3840db3e_o.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1339;s:4:"file";s:35:"2013/06/4327438430_ea3840db3e_o.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"4327438430_ea3840db3e_o-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-624x417.jpg";s:5:"width";i:624;s:6:"height";i:417;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Liam Helm 2009";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>2789759648_102d74b096_o</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/lorem-ipsum/2789759648_102d74b096_o/</link>
-		<pubDate>Mon, 01 Jul 2013 20:58:00 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date>2013-07-01 20:58:00</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:58:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>2789759648_102d74b096_o</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>32</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/2789759648_102d74b096_o.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:35:"2013/06/2789759648_102d74b096_o.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-624x416.jpg";s:5:"width";i:624;s:6:"height";i:416;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:22:"Canon EOS 400D DIGITAL";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1219503377;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>http://faithful.usingpagelines.com/2013/07/01/hello-world/</link>
-		<pubDate>Mon, 01 Jul 2013 20:39:26 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://usingpagelines.com/">UsingPageLines.com</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2013-07-01 20:39:26</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:39:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372712068]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>http://usingpagelines.com/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2013-07-01 20:39:26</wp:comment_date>
-			<wp:comment_date_gmt>2013-07-01 20:39:26</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>Sample Page</title>
-		<link>http://faithful.usingpagelines.com/sample-page/</link>
-		<pubDate>Mon, 01 Jul 2013 20:39:26 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.usingpagelines.com/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my blog. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="http://faithful.usingpagelines.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2013-07-01 20:39:26</wp:post_date>
-		<wp:post_date_gmt>2013-07-01 20:39:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sample-page</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372712757]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Podcast</title>
-		<link>http://faithful.usingpagelines.com/podcast/</link>
-		<pubDate>Sun, 30 Jun 2013 16:02:50 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.dev/?page_id=19</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2013-06-30 16:02:50</wp:post_date>
-		<wp:post_date_gmt>2013-06-30 16:02:50</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>podcast</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372705853]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Lorem Ipsum</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/lorem-ipsum/</link>
+		<link>http://testing.dev/?p=32</link>
 		<pubDate>Fri, 21 Jun 2013 03:36:44 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://details.dev/?p=20</guid>
@@ -1061,17 +685,29 @@ Aliquam. Sed elementum, est ac sagittis porttitor, neque metus ultricies ante, i
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[51]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Dolor Sit</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/dolor-sit/</link>
+		<link>http://testing.dev/?p=33</link>
 		<pubDate>Fri, 21 Jun 2013 03:37:02 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://details.dev/?p=22</guid>
@@ -1107,117 +743,29 @@ Aliquam. Sed elementum, est ac sagittis porttitor, neque metus ultricies ante, i
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[49]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>http://faithful.usingpagelines.com/2013/06/30/hello-world-2/</link>
-		<pubDate>Sun, 30 Jun 2013 14:14:11 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://faithful.dev/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date>2013-06-30 14:14:11</wp:post_date>
-		<wp:post_date_gmt>2013-06-30 14:14:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world-2</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372636737]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2013-06-30 14:14:11</wp:comment_date>
-			<wp:comment_date_gmt>2013-06-30 14:14:11</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>http://faithful.usingpagelines.com/2013/06/20/hello-world-2-2/</link>
-		<pubDate>Thu, 20 Jun 2013 23:05:20 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://details.dev/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date>2013-06-20 23:05:20</wp:post_date>
-		<wp:post_date_gmt>2013-06-20 23:05:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world-2-2</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1372267367]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2013-06-20 23:05:20</wp:comment_date>
-			<wp:comment_date_gmt>2013-06-20 23:05:20</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Nullam In Dui Mauris</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/nullam-in-dui-mauris/</link>
+		<link>http://testing.dev/?p=41</link>
 		<pubDate>Fri, 21 Jun 2013 03:37:29 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://details.dev/?p=24</guid>
@@ -1253,37 +801,39 @@ Aliquam. Sed elementum, est ac sagittis porttitor, neque metus ultricies ante, i
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[47]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Sed Auctor</title>
-		<link>http://faithful.usingpagelines.com/2013/06/21/sed-auctor/</link>
+		<link>http://testing.dev/?p=42</link>
 		<pubDate>Fri, 21 Jun 2013 03:37:51 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://details.dev/?p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Lorem Ipsum Dolor Sit</h1>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit.
-
-Odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur.
-
-Vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie augue sit amet leo consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin vel ante a orci tempus eleifend ut et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor lobortis. Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna semper bibendum. Etiam scelerisque, nunc ac egestas consequat, odio nibh.
-
-Euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit.
-
-Amet purus. Quisque lacus quam, egestas ac tincidunt a, lacinia vel velit. Aenean facilisis nulla vitae urna tincidunt congue sed ut dui. Morbi malesuada nulla nec purus convallis consequat. Vivamus id mollis quam. Morbi ac commodo nulla. In condimentum.
-
-Orci id nisl volutpat bibendum. Quisque commodo hendrerit lorem quis egestas. Maecenas quis tortor arcu. Vivamus rutrum nunc non neque consectetur quis placerat neque lobortis. Nam vestibulum, arcu sodales feugiat consectetur, nisl orci bibendum elit, eu euismod magna sapien ut nibh. Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque eu eros interdum malesuada non vel leo. Sed fringilla porta ligula egestas tincidunt. Nullam risus magna, ornare vitae varius eget, scelerisque a libero. Morbi eu porttitor ipsum. Nullam lorem nisi, posuere quis volutpat eget, luctus nec massa. Pellentesque aliquam lacinia tellus sit amet bibendum. Ut posuere justo in.
-
-Enim pretium scelerisque. Etiam ornare vehicula euismod. Vestibulum at risus augue. Sed non semper dolor. Sed fringilla consequat velit a porta. Pellentesque sed lectus pharetra ipsum ultricies commodo non sit amet velit. Suspendisse volutpat lobortis ipsum, in scelerisque nisi iaculis a. Duis pulvinar lacinia commodo. Integer in lorem id nibh luctus.
-
-Aliquam. Sed elementum, est ac sagittis porttitor, neque metus ultricies ante, in accumsan massa nisl non metus. Vivamus sagittis quam a lacus dictum tempor. Nullam in semper ipsum. Cras a est id massa malesuada tincidunt. Etiam a urna tellus. Ut rutrum vehicula dui, eu cursus magna tincidunt pretium. Donec malesuada accumsan quam, et commodo orci viverra et. Integer tincidunt sagittis lectus. Mauris ac ligula quis orci auctor tincidunt. Suspendisse odio justo, varius id posuere sit amet, iaculis sit amet orci. Suspendisse potenti. Suspendisse potenti. Aliquam erat volutpat. Sed posuere dignissim odio, nec cursus odio mollis et. Praesent cursus, orci ut dictum adipiscing, tellus ante porttitor leo, vel gravida lacus lorem vitae est. Duis ultricies feugiat ante nec aliquam. Maecenas varius, nulla vel fermentum semper, metus nibh bibendum nunc, vitae suscipit mauris velit ac nunc. Mauris nunc.]]></content:encoded>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit. Odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur. Vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie augue sit amet leo consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin vel ante a orci tempus eleifend ut et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor lobortis. Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna semper bibendum. Etiam scelerisque, nunc ac egestas consequat, odio nibh. Euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit. Amet purus. Quisque lacus quam, egestas ac tincidunt a, lacinia vel velit. Aenean facilisis nulla vitae urna tincidunt congue sed ut dui. Morbi malesuada nulla nec purus convallis consequat. Vivamus id mollis quam. Morbi ac commodo nulla. In condimentum. Orci id nisl volutpat bibendum. Quisque commodo hendrerit lorem quis egestas. Maecenas quis tortor arcu. Vivamus rutrum nunc non neque consectetur quis placerat neque lobortis. Nam vestibulum, arcu sodales feugiat consectetur, nisl orci bibendum elit, eu euismod magna sapien ut nibh. Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque eu eros interdum malesuada non vel leo. Sed fringilla porta ligula egestas tincidunt. Nullam risus magna, ornare vitae varius eget, scelerisque a libero. Morbi eu porttitor ipsum. Nullam lorem nisi, posuere quis volutpat eget, luctus nec massa. Pellentesque aliquam lacinia tellus sit amet bibendum. Ut posuere justo in. Enim pretium scelerisque. Etiam ornare vehicula euismod. Vestibulum at risus augue. Sed non semper dolor. Sed fringilla consequat velit a porta. Pellentesque sed lectus pharetra ipsum ultricies commodo non sit amet velit. Suspendisse volutpat lobortis ipsum, in scelerisque nisi iaculis a. Duis pulvinar lacinia commodo. Integer in lorem id nibh luctus. Aliquam. Sed elementum, est ac sagittis porttitor, neque metus ultricies ante, in accumsan massa nisl non metus. Vivamus sagittis quam a lacus dictum tempor. Nullam in semper ipsum. Cras a est id massa malesuada tincidunt. Etiam a urna tellus. Ut rutrum vehicula dui, eu cursus magna tincidunt pretium. Donec malesuada accumsan quam, et commodo orci viverra et. Integer tincidunt sagittis lectus. Mauris ac ligula quis orci auctor tincidunt. Suspendisse odio justo, varius id posuere sit amet, iaculis sit amet orci. Suspendisse potenti. Suspendisse potenti. Aliquam erat volutpat. Sed posuere dignissim odio, nec cursus odio mollis et. Praesent cursus, orci ut dictum adipiscing, tellus ante porttitor leo, vel gravida lacus lorem vitae est. Duis ultricies feugiat ante nec aliquam. Maecenas varius, nulla vel fermentum semper, metus nibh bibendum nunc, vitae suscipit mauris velit ac nunc. Mauris nunc.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date>2013-06-21 03:37:51</wp:post_date>
@@ -1299,12 +849,24 @@ Aliquam. Sed elementum, est ac sagittis porttitor, neque metus ultricies ante, i
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_encloseme</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[45]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

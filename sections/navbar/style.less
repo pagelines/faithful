@@ -171,7 +171,6 @@ body.navbar_fixed {
 
 	.searchform{
 		float: right;
-		// position: relative;
 		padding-top: 3.4em;
 		margin: 7px 0 5px;
 		width: auto;
@@ -192,7 +191,7 @@ body.navbar_fixed {
 		float:left;
 
 		margin: 4px 2% 0 0;
-		padding: 5px 1%;
+		padding: 0 1%;
 		.plbrand-text{
 			color:#ffffff;
 			font-size: 1.4em;
@@ -217,24 +216,24 @@ body.navbar_fixed {
 		}
 	}
 	&.pl-color-red{
-		#gradient > .vertical(#ee5f5b, #bd362f);
-		border-top: 1px solid #bd362f;
+		#gradient > .vertical(@btnImportantBackground, @btnImportantBackgroundHighlight);
+		border-top: 1px solid @btnImportantBackgroundHighlight;
 		.searchform .searchfield{
-			border: 1px solid #bd362f;
+			border: 1px solid @btnImportantBackgroundHighlight;
 		}
 	}
 	&.pl-color-blue{
-		border-top: 1px solid #4574B8;
-		#gradient > .vertical(#6E9ED2, #4574B8);
+		border-top: 1px solid @btnPrimaryBackgroundHighlight;
+		#gradient > .vertical(@btnPrimaryBackground, @btnPrimaryBackgroundHighlight);
 		.searchform .searchfield{
-			border: 1px solid #4574B8;
+			border: 1px solid @btnPrimaryBackgroundHighlight;
 		}
 	}
 	&.pl-color-orange{
-		#gradient > .vertical(#fbb450, #f89406);
-		border-top: 1px solid #f89406;
+		#gradient > .vertical(@btnWarningBackground, @btnWarningBackgroundHighlight);
+		border-top: 1px solid @btnWarningBackgroundHighlight;
 		.searchform .searchfield{
-			border: 1px solid #f89406;
+			border: 1px solid @btnWarningBackgroundHighlight;
 		}
 	}
 
@@ -272,7 +271,7 @@ body.navbar_fixed {
 	}
 
 	&.pl-color-grey{
-		#gradient > .vertical(#ffffff, #dcdcdc);
+		#gradient > .vertical(#ffffff, #EEE);
 		border-top: 1px solid #dcdcdc;
 		color: rgba(0,0,0,.5);
 		.searchform .searchfield{
