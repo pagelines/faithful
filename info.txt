@@ -4,6 +4,18 @@ Faithful is a Child Theme built for the PageLines Framework.  It requires DMS to
 
 == Changelog ==
 
+= 1.1 =
+*MAJOR UPDATE
+*Changed the header image
+*Changed the navbar
+*Changed other theme images
+*Added a PopThumbs section to the homepage
+*Added customized iBox section
+*Added customized Callout section
+*Added customized Hero section
+*Added customized Navbar section
+*Included PostPins section
+
 = 1.0.2 = 
 *Updated thumb and screenshot images.
 

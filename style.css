@@ -1,8 +1,8 @@
 /*  
 Theme Name: Faithful Theme
-Theme URI: http://usingpagelines.com/faithful
-Description: The Faithful theme is built to run on DMS using only core sections. Faithful takes full advantage of the new child theme system and provides the end user with a great out-of-the-box website that they can implement exactly as shown.
-Version: 1.0.2
+Theme URI: http://faithful.usingpagelines.com
+Description: The Faithful theme is built to run on DMS. Faithful has 4 customized sections and a bonus section (PostPins) and takes full advantage of PageLines' child theme system providing the end user with a great out-of-the-box website that they can implement exactly as shown.
+Version: 1.1
 Author: James Giroux
 Author URI: http://jamesgiroux.ca
 Tags: developer
@@ -11,28 +11,3 @@ V3: true
 Template: dms
 
 */
-
-.navbar .navline.pull-right {
-  float: right;
-  position: relative;
-  margin-top: 3.2em;
-}
-.navbar .plbrand img {
-  max-height: 8em;
-  padding: 5px 1%;
-}
-.navbar .navline > li {
-  display: block;
-  float: left;
-}
-.navbar .navline {
-  font-size: 1.1em;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-.navbar .searchform {
-  float: right;
-  margin: 3.4em 0 5px;
-  width: auto;
-  max-width: 190px;
-}
