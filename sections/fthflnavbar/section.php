@@ -147,6 +147,7 @@ class fthflNavBar extends PageLinesSection {
 			array(
 					'key'		=> 'fthflnavbar_fixed',
 					'default'	=> true,
+					'version'	=> 'pro',
 					'type'		=> 'check',
 					'inputlabel'=> __( 'Enable Fixed Navigation Bar', 'pagelines' ),
 					'title'		=> __( 'Enable Fixed Navigation Bar', 'pagelines' ),
@@ -155,6 +156,7 @@ class fthflNavBar extends PageLinesSection {
 			array(
 					'key'		=> 'fthflnavbar_logo',
 					'default'	=> PL_IMAGES.'/dms.png',
+					'version'	=> 'pro',
 					'type'		=> 'image_upload',
 					'label'		=> __( 'NavBar Image', 'pagelines' ),
 					'title'		=> __( 'NavBar Image', 'pagelines' ),
