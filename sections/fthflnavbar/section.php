@@ -147,7 +147,6 @@ class fthflNavBar extends PageLinesSection {
 			array(
 					'key'		=> 'fthflnavbar_fixed',
 					'default'	=> true,
-					'version'	=> 'pro',
 					'type'		=> 'check',
 					'inputlabel'=> __( 'Enable Fixed Navigation Bar', 'pagelines' ),
 					'title'		=> __( 'Enable Fixed Navigation Bar', 'pagelines' ),
@@ -156,7 +155,6 @@ class fthflNavBar extends PageLinesSection {
 			array(
 					'key'		=> 'fthflnavbar_logo',
 					'default'	=> PL_IMAGES.'/dms.png',
-					'version'	=> 'pro',
 					'type'		=> 'image_upload',
 					'label'		=> __( 'NavBar Image', 'pagelines' ),
 					'title'		=> __( 'NavBar Image', 'pagelines' ),
@@ -283,7 +281,8 @@ class fthflNavBar extends PageLinesSection {
 
 	$classes = join(' ', $class);
 
-	$brand = ( $this->opt( 'fthflnavbar_logo' ) || $this->opt( 'fthflnavbar_logo' ) != '') ? sprintf( '<img src="%s" alt="%s" />', $this->opt( 'fthflnavbar_logo' ), esc_attr( get_bloginfo('name') ) ) : sprintf( '<h2 class="plbrand-text">%s</h2>', get_bloginfo( 'name' ) );
+	$image_data = pl_get_image_data( $this->opt( 'navbar_logo' ), true );
+	$brand = ( $this->opt( 'fthflnavbar_logo' ) || $this->opt( 'fthflnavbar_logo' ) != '') ? sprintf( '<img src="%s" alt="%s" title="%s" />', $image_data['url'], $image_data['alt'], $image_data['title'] ) : sprintf( '<h2 class="plbrand-text">%s</h2>', get_bloginfo( 'name' ) );
     $navbartitle = $this->opt( 'fthflnavbar_title' );
 
 	?>
